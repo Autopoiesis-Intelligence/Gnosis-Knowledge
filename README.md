@@ -1,6 +1,6 @@
-# Gnosis-Knowledge (Prometheus)
+# Gnosis-Knowledge
 
-Gnosis-Knowledge is the project's knowledge organization repository. **Prometheus** is the component name currently used in this repository; the canonical project brand and repository identity remain **Gnosis-Knowledge** and **Gnosis**.
+Gnosis-Knowledge is the project's knowledge organization repository. The canonical project brand and repository identity are **Gnosis-Knowledge** and **Gnosis**.
 
 ## Purpose
 
