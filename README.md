@@ -1,22 +1,16 @@
-# Gnosis-Knowledge (Prometheus)
+# Gnosis-Knowledge
 
-Gnosis-Knowledge is the project's knowledge organization repository. **Prometheus** is the component name currently used in this repository; the canonical project brand and repository identity remain **Gnosis-Knowledge** and **Gnosis**.
-
-## Purpose
-
-- Organize reusable knowledge, definitions, references, and domain materials.
-- Keep source provenance and evidence status attached to claims wherever practical.
-- Separate observations, supported conclusions, hypotheses, unresolved items, and rejected or superseded material.
-- Provide a structured knowledge surface for research and product work without turning stored material into execution authority.
-
-## Evidence discipline
-
-A knowledge entry is not automatically verified because it is documented or stored. Claims should point to source material and, when applicable, reproducible tests, exact commits, CI runs, or runtime evidence.
-
-## Boundaries
-
-Gnosis-Knowledge is not the protected execution authority and cannot independently authorize changes to Gnosis-Core. Knowledge may inform a proposal; implementation and evidence determine what is actually supported.
+**Canonical repository name:** `Autopoiesis-Intelligence/Gnosis-Knowledge`.
 
 ## Current status
 
-This README states the repository's intended role, not a claim that a complete knowledge ingestion, verification, or publication pipeline is already operational. Check the current repository contents for implemented functionality.
+The repository's purpose, data model, consumers, ingestion contract, and source-of-truth scope have **not yet been established from the inspected root contents**. This README intentionally does not invent those responsibilities.
+
+Until an explicit role is accepted:
+
+- do not treat this repository as an execution or authorization authority;
+- do not assume that its contents are canonical knowledge or validated evidence;
+- do not infer ingestion, runtime, or integration capability from the repository name;
+- record the exact branch, commit, tests, CI runs, and runtime evidence for any future capability claim.
+
+The role should be reconciled with the repository map in `Gnosis-Core/docs/REPOSITORY_MAP.md` before implementation or cross-repository integration is assigned.
