@@ -1,0 +1,4 @@
+# Branches to delete (owner-confirmed cleanup list, 2026-10-23). Format: <branch> <sha-prefix>
+docs/canonical-branding-readmes 7b7974c
+docs/remove-mythological-readme-name 2b200d2
+docs/readme-names 36d2fb3
